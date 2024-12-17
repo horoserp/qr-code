@@ -23,14 +23,14 @@
   "screenshots": [
     {
      "src": "https://horoserp.github.io/qr-code/images/desktop-design.jpg",
-      "sizes": "1375x600",
+      "sizes": "1440x960",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Desktop Rating Component"
     },
     {
       "src": "https://horoserp.github.io/qr-code/images/mobile-design.jpg",
-       "sizes": "375x600",
+       "sizes": "375x812",
        "type": "image/png",
        "form_factor": "narrow",
        "label": "Mobile Rating Component"
