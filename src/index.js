@@ -17,4 +17,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-//TODO: Change screenshots in manifest.json
