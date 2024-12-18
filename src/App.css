@@ -1,0 +1,51 @@
+/* Universal Selector to remove default browser settings */
+* {
+  padding: 0rem;
+  margin: 0rem;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Main";
+  src: url("https://horoserp.github.io/qr-code/fonts/Outfit-VariableFont_wght.ttf")
+    format ("truetype");
+  font-weight: 400 700;
+  font-style: normal;
+}
+
+/* CSS Variables */
+:root {
+  --White: hsl(0, 0%, 100%);
+
+  --Slate300: hsl(212, 45%, 89%);
+  --Slate500: hsl(216, 15%, 48%);
+  --Slate900: hsl(218, 44%, 22%);
+}
+
+html {
+  font-size: 150px;
+}
+
+body {
+  font-family: "Main";
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
