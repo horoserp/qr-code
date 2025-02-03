@@ -5,7 +5,6 @@ import App from "./App";
 
 <BrowserRouter>
   <Routes>
-    {/* Check this code */}
     <Route path="/qr-code" element={<App />}>
       <Route index element={<App />} />
     </Route>
